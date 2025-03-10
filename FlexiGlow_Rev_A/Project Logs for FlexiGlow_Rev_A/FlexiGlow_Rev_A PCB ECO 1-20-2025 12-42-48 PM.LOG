@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=FlexiGlow_Rev_A Member=C7
+Added Component: Designator=TP7(TestPoint-Micro)
+Added Component: Designator=TP8(TestPoint-Micro)
+Added Component: Designator=TP9(TestPoint-Micro)
+Added Component: Designator=TP10(TestPoint-Micro)
+Added Pin To Net: NetName=5V Pin=TP7-1
+Added Pin To Net: NetName=5V Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP7 5V
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP8 5V
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP9 G
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP10 G

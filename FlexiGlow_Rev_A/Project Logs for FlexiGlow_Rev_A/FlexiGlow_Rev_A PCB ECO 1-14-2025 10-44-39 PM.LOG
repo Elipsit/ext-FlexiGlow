@@ -1,0 +1,8 @@
+Change Component Comment : Designator=TP1 Old Comment=5V_USB New Comment=5V
+Change Component Comment : Designator=TP4 Old Comment=5V_USB New Comment=5V
+Change Component Comment : Designator=TP2 Old Comment=DIN New Comment=DI
+Change Component Comment : Designator=TP5 Old Comment=DOUT New Comment=DO
+Change Component Comment : Designator=TP3 Old Comment=GND New Comment=G
+Change Component Comment : Designator=TP6 Old Comment=GND New Comment=G
+Change Net Name : Old Net Name=NetLED30_1 New Net Name=Dout
+Change Net Name : Old Net Name=P0 New Net Name=Din

@@ -1,0 +1,10 @@
+Add Component: Footprint Not Found NeoTestpoint
+Add Pin To Net: Unknown Pin: Pin TP?-1
+Add Pin To Net: Unknown Pin: Pin TP?-3
+Added Pin To Net: NetName=NetLED30_1 Pin=LED30-1
+Added Net: Name=NetLED30_1
+Change Class Name : Old Net Name=LED_Star_RGB_Rev_A_1 New Net Name=FlexiGlow_Rev_A
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component LED24 WS2812C-2020
+Add Class Member: Failed to add class member : Component TP? TP/Neotestpoint
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

@@ -1,0 +1,448 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 1.1167968 1.3895496 270 N TP10 G ;0=1,1=0.0000
+TOP 0 1.1167968 1.3895496 270 N 32 8 1
+#
+# CMP 1
+CMP 1 0.287 0.819 270 N TP9 G ;0=1,1=0.0000
+TOP 0 0.287 0.819 270 N 32 37 1
+#
+# CMP 2
+CMP 1 0.618 1.395 270 N TP8 5V ;0=1,1=0.0000
+TOP 0 0.618 1.395 270 N 33 22 1
+#
+# CMP 3
+CMP 1 0.267 0.92 270 N TP7 5V ;0=1,1=0.0000
+TOP 0 0.267 0.92 270 N 33 31 1
+#
+# CMP 4
+CMP 0 0.583 0.395 120 N C2 4.7uF ;0=1,1=0.0276
+PRP Applications 'General Purpose'
+PRP Capacitance '4.7µF'
+PRP Category 'Capacitors'
+PRP ClassName ''
+PRP ComponentLink1Description 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP ComponentLink1URL 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R60J475ME47D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=0.15, 10=0.1, 50=0.0576, 100=0.0475, 250=0.04, 500=0.0335, 1000=0.0275, 5000=0.02325 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Stock_1 '162576'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-5915-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.024_ (0.60mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.5918583 0.4103429 30 N 33 38 1
+TOP 1 0.5741418 0.3796569 30 N 32 32 2
+#
+# CMP 5
+CMP 0 1.434 0.861 0 N C3 4.7uF ;0=1,1=0.0276
+PRP Applications 'General Purpose'
+PRP Capacitance '4.7µF'
+PRP Category 'Capacitors'
+PRP ClassName ''
+PRP ComponentLink1Description 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP ComponentLink1URL 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R60J475ME47D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=0.15, 10=0.1, 50=0.0576, 100=0.0475, 250=0.04, 500=0.0335, 1000=0.0275, 5000=0.02325 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Stock_1 '162576'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-5915-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.024_ (0.60mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 1.4162835 0.8610001 270 N 33 11 1
+TOP 1 1.4517166 0.8610001 270 N 32 9 2
+#
+# CMP 6
+CMP 0 1.152 1.364 300 N C4 4.7uF ;0=1,1=0.0276
+PRP Applications 'General Purpose'
+PRP Capacitance '4.7µF'
+PRP Category 'Capacitors'
+PRP ClassName ''
+PRP ComponentLink1Description 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP ComponentLink1URL 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R60J475ME47D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=0.15, 10=0.1, 50=0.0576, 100=0.0475, 250=0.04, 500=0.0335, 1000=0.0275, 5000=0.02325 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Stock_1 '162576'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-5915-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.024_ (0.60mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 1.1431417 1.3486571 210 N 33 6 1
+TOP 1 1.1608582 1.3793431 210 N 32 6 2
+#
+# CMP 7
+CMP 0 0.577 1.372 235 N C5 4.7uF ;0=1,1=0.0276
+PRP Applications 'General Purpose'
+PRP Capacitance '4.7µF'
+PRP Category 'Capacitors'
+PRP ClassName ''
+PRP ComponentLink1Description 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP ComponentLink1URL 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R60J475ME47D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=0.15, 10=0.1, 50=0.0576, 100=0.0475, 250=0.04, 500=0.0335, 1000=0.0275, 5000=0.02325 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Stock_1 '162576'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-5915-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.024_ (0.60mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.5871617 1.3574874 145 N 33 23 1
+TOP 1 0.5668381 1.3865125 145 N 32 23 2
+#
+# CMP 8
+CMP 2 1.0402814 0.3844223 90 N LED1 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 1.0226908 0.3475876 90 N 12 1 1
+TOP 1 1.0659981 0.3475877 90 N 32 18 2
+TOP 2 1.065998 0.419635 90 N 31 1 3
+TOP 3 1.0226909 0.4196349 90 N 33 21 4
+#
+# CMP 9
+CMP 2 0.8597814 0.3854223 90 N LED3 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.8421908 0.3485876 90 N 29 1 1
+TOP 1 0.8854981 0.3485877 90 N 32 30 2
+TOP 2 0.885498 0.420635 90 N 30 1 3
+TOP 3 0.8421909 0.4206349 90 N 33 20 4
+#
+# CMP 10
+CMP 2 0.7695314 0.3854223 90 N LED4 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.7519408 0.3485876 90 N 28 1 1
+TOP 1 0.7952481 0.3485877 90 N 32 29 2
+TOP 2 0.795248 0.420635 90 N 29 0 3
+TOP 3 0.7519409 0.4206349 90 N 33 36 4
+#
+# CMP 11
+CMP 2 0.6792814 0.3844223 90 N LED5 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.6616908 0.3475876 90 N 27 1 1
+TOP 1 0.7049981 0.3475878 90 N 32 34 2
+TOP 2 0.7049979 0.419635 90 N 28 0 3
+TOP 3 0.6616908 0.4196349 90 N 33 37 4
+#
+# CMP 12
+CMP 2 0.5302814 0.4584223 150 N LED6 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.4895864 0.4552389 150 N 15 1 1
+TOP 1 0.5112401 0.4177337 150 N 32 31 2
+TOP 2 0.5736347 0.4537575 150 N 27 0 3
+TOP 3 0.5519812 0.4912624 150 N 33 33 4
+#
+# CMP 13
+CMP 2 0.4829281 0.5370871 150 N LED7 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.442233 0.5339037 150 N 26 1 1
+TOP 1 0.4638868 0.4963985 150 N 32 38 2
+TOP 2 0.5262814 0.5324223 150 N 15 0 3
+TOP 3 0.5046278 0.5699272 150 N 33 32 4
+#
+# CMP 14
+CMP 2 0.4369281 0.6160871 150 N LED8 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.396233 0.6129037 150 N 25 1 1
+TOP 1 0.4178867 0.5753984 150 N 32 40 2
+TOP 2 0.4802814 0.6114223 150 N 26 0 3
+TOP 3 0.4586278 0.6489273 150 N 33 35 4
+#
+# CMP 15
+CMP 2 0.3939281 0.6950871 150 N LED9 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.353233 0.6919037 150 N 24 1 1
+TOP 1 0.3748867 0.6543984 150 N 32 39 2
+TOP 2 0.4372814 0.6904223 150 N 25 0 3
+TOP 3 0.4156278 0.7279273 150 N 33 34 4
+#
+# CMP 16
+CMP 2 0.346928 0.7750872 150 N LED10 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.306233 0.7719037 150 N 23 1 1
+TOP 1 0.3278867 0.7343986 150 N 32 35 2
+TOP 2 0.3902814 0.7704223 150 N 24 0 3
+TOP 3 0.3686278 0.8079273 150 N 33 40 4
+#
+# CMP 17
+CMP 2 0.3432814 0.9604223 210 N LED11 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.3201769 0.9940736 210 N 22 1 1
+TOP 1 0.2985236 0.9565681 210 N 32 28 2
+TOP 2 0.3609182 0.9205448 210 N 23 0 3
+TOP 3 0.3825717 0.9580497 210 N 33 30 4
+#
+# CMP 18
+CMP 2 0.3896446 1.0392999 210 N LED12 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.3665401 1.0729512 210 N 14 1 1
+TOP 1 0.3448867 1.0354461 210 N 32 27 2
+TOP 2 0.4072814 0.9994223 210 N 22 0 3
+TOP 3 0.4289349 1.0369275 210 N 33 29 4
+#
+# CMP 19
+CMP 2 0.4352814 1.1174223 210 N LED13 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.4121771 1.1510736 210 N 21 1 1
+TOP 1 0.3905235 1.1135683 210 N 32 26 2
+TOP 2 0.4529182 1.0775448 210 N 14 0 3
+TOP 3 0.4745717 1.1150497 210 N 33 28 4
+#
+# CMP 20
+CMP 2 0.4812814 1.1964223 210 N LED14 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.458177 1.2300737 210 N 20 1 1
+TOP 1 0.4365234 1.1925682 210 N 32 25 2
+TOP 2 0.4989182 1.1565447 210 N 21 0 3
+TOP 3 0.5205717 1.1940498 210 N 33 27 4
+#
+# CMP 21
+CMP 2 0.5282814 1.2734223 210 N LED15 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.505177 1.3070737 210 N 19 1 1
+TOP 1 0.4835234 1.2695682 210 N 32 24 2
+TOP 2 0.5459182 1.2335447 210 N 20 0 3
+TOP 3 0.5675717 1.2710498 210 N 33 26 4
+#
+# CMP 22
+CMP 2 0.6867168 1.3621654 270 N LED16 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.7043074 1.3990001 270 N 18 1 1
+TOP 1 0.6610001 1.399 270 N 32 22 2
+TOP 2 0.6610003 1.3269527 270 N 19 0 3
+TOP 3 0.7043072 1.3269528 270 N 33 24 4
+#
+# CMP 23
+CMP 2 0.7767167 1.3621654 270 N LED17 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.7943073 1.3990001 270 N 17 1 1
+TOP 1 0.751 1.399 270 N 32 21 2
+TOP 2 0.7510002 1.3269527 270 N 18 0 3
+TOP 3 0.7943072 1.3269528 270 N 33 25 4
+#
+# CMP 24
+CMP 2 0.8667166 1.3621654 270 N LED18 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.8843072 1.3990001 270 N 13 1 1
+TOP 1 0.8409999 1.399 270 N 32 20 2
+TOP 2 0.841 1.3269527 270 N 17 0 3
+TOP 3 0.8843071 1.3269529 270 N 33 8 4
+#
+# CMP 25
+CMP 2 0.9567165 1.3621654 270 N LED19 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 0.9743071 1.3990002 270 N 16 1 1
+TOP 1 0.9310002 1.3990001 270 N 32 19 2
+TOP 2 0.9309999 1.3269528 270 N 13 0 3
+TOP 3 0.9743069 1.3269527 270 N 33 9 4
+#
+# CMP 26
+CMP 2 1.0467165 1.3621654 270 N LED20 WS2812C-2020 ;0=1,1=0.0000
+TOP 0 1.0643071 1.3990001 270 N 7 0 1
+TOP 1 1.0209998 1.399 270 N 32 7 2
+TOP 2 1.021 1.3269528 270 N 16 0 3
+TOP 3 1.064307 1.3269528 270 N 33 7 4
+#
+# CMP 27
+CMP 1 1.109 0.43 270 N TP1 5V ;0=1,1=0.0000
+TOP 0 1.109 0.43 270 N 33 18 1
+#
+# CMP 28
+CMP 0 0.2962835 0.8770001 180 N C1 4.7uF ;0=1,1=0.0276
+PRP Applications 'General Purpose'
+PRP Capacitance '4.7µF'
+PRP Category 'Capacitors'
+PRP ClassName ''
+PRP ComponentLink1Description 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP ComponentLink1URL 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R60J475ME47D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=0.15, 10=0.1, 50=0.0576, 100=0.0475, 250=0.04, 500=0.0335, 1000=0.0275, 5000=0.02325 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Stock_1 '162576'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-5915-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.024_ (0.60mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 0.314 0.877 90 N 33 39 1
+TOP 1 0.2785669 0.877 90 N 32 36 2
+#
+# CMP 29
+CMP 2 0.9500314 0.3844223 90 N LED2 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 0.9324408 0.3475876 90 N 30 0 1
+TOP 1 0.9757481 0.3475877 90 N 32 33 2
+TOP 2 0.975748 0.419635 90 N 12 0 3
+TOP 3 0.9324409 0.4196349 90 N 33 19 4
+#
+# CMP 30
+CMP 2 1.1882814 1.2744223 330 N LED21 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.2289765 1.2776057 330 N 11 0 1
+TOP 1 1.2073227 1.3151109 330 N 32 2 2
+TOP 2 1.144928 1.2790872 330 N 7 1 3
+TOP 3 1.1665816 1.2415822 330 N 33 3 4
+#
+# CMP 31
+CMP 2 1.2346347 1.1937575 330 N LED22 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.2753298 1.1969409 330 N 10 0 1
+TOP 1 1.253676 1.2344461 330 N 32 3 2
+TOP 2 1.1912814 1.1984223 330 N 11 1 3
+TOP 3 1.2129349 1.1609174 330 N 33 4 4
+#
+# CMP 32
+CMP 2 1.2822814 1.1124223 330 N LED23 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.3229765 1.1156057 330 N 9 0 1
+TOP 1 1.3013227 1.1531109 330 N 32 1 2
+TOP 2 1.2389281 1.1170871 330 N 10 1 3
+TOP 3 1.2605816 1.0795822 330 N 33 2 4
+#
+# CMP 33
+CMP 2 1.3302814 1.0334223 330 N LED24 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.3709765 1.0366057 330 N 8 0 1
+TOP 1 1.3493228 1.074111 330 N 32 4 2
+TOP 2 1.2869281 1.0380871 330 N 9 1 3
+TOP 3 1.3085817 1.0005822 330 N 33 1 4
+#
+# CMP 34
+CMP 2 1.3752814 0.9524223 330 N LED25 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.4159766 0.9556059 330 N 2 0 1
+TOP 1 1.3943227 0.9931109 330 N 32 5 2
+TOP 2 1.331928 0.9570872 330 N 8 1 3
+TOP 3 1.3535815 0.919582 330 N 33 5 4
+#
+# CMP 35
+CMP 2 1.365 0.788 30 N LED26 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.3881045 0.7543488 30 N 6 1 1
+TOP 1 1.4097581 0.791854 30 N 32 11 2
+TOP 2 1.3473632 0.8278776 30 N 2 1 3
+TOP 3 1.3257097 0.7903724 30 N 33 12 4
+#
+# CMP 36
+CMP 2 1.3192814 0.7044223 30 N LED27 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.3423859 0.6707711 30 N 5 1 1
+TOP 1 1.3640395 0.7082763 30 N 32 12 2
+TOP 2 1.3016446 0.7442999 30 N 6 0 3
+TOP 3 1.2799911 0.7067947 30 N 33 13 4
+#
+# CMP 37
+CMP 2 1.2722814 0.6244223 30 N LED28 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.2953859 0.590771 30 N 4 1 1
+TOP 1 1.3170394 0.6282763 30 N 32 13 2
+TOP 2 1.2546446 0.6642999 30 N 5 0 3
+TOP 3 1.2329911 0.6267948 30 N 33 14 4
+#
+# CMP 38
+CMP 2 1.2252814 0.5434223 30 N LED29 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.2483859 0.509771 30 N 3 1 1
+TOP 1 1.2700394 0.5472763 30 N 32 14 2
+TOP 2 1.2076446 0.5832998 30 N 4 0 3
+TOP 3 1.1859911 0.5457948 30 N 33 15 4
+#
+# CMP 39
+CMP 2 1.1802814 0.4644223 30 N LED30 WS2812C-2020 ;0=1,1=0.0610
+TOP 0 1.2033859 0.430771 30 N 1 1 1
+TOP 1 1.2250394 0.4682763 30 N 32 15 2
+TOP 2 1.1626446 0.5042998 30 N 3 0 3
+TOP 3 1.1409911 0.4667948 30 N 33 16 4
+#
+# CMP 40
+CMP 1 1.11 0.354 270 N TP2 DI ;0=1,1=0.0000
+TOP 0 1.11 0.354 270 N 31 0 1
+#
+# CMP 41
+CMP 1 1.445 0.9 90 N TP3 G ;0=1,1=0.0000
+TOP 0 1.445 0.9 90 N 32 10 1
+#
+# CMP 42
+CMP 1 1.382 0.8644446 325 N TP4 5V ;0=1,1=0.0000
+TOP 0 1.382 0.8644446 325 N 33 10 1
+#
+# CMP 43
+CMP 1 1.45 0.819 210 N TP5 DO ;0=1,1=0.0000
+TOP 0 1.45 0.819 210 N 1 0 1
+#
+# CMP 44
+CMP 1 1.195 0.387 270 N TP6 G ;0=1,1=0.0000
+TOP 0 1.195 0.387 270 N 32 16 1
+#
+# CMP 45
+CMP 0 1.141 0.384 55 N C6 4.7uF ;0=1,1=0.0276
+PRP Applications 'General Purpose'
+PRP Capacitance '4.7µF'
+PRP Category 'Capacitors'
+PRP ClassName ''
+PRP ComponentLink1Description 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP ComponentLink1URL 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_Part_Number 'GRM155R60J475ME47D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0402'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=0.15, 10=0.1, 50=0.0576, 100=0.0475, 250=0.04, 500=0.0335, 1000=0.0275, 5000=0.02325 (USD)'
+PRP Ratings '-'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.039_ L x 0.020_ W (1.00mm x 0.50mm)'
+PRP Stock_1 '162576'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-5915-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.024_ (0.60mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '6.3V'
+TOP 0 1.1308383 0.3985126 325 N 33 17 1
+TOP 1 1.151162 0.3694874 325 N 32 17 2
+#

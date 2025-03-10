@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component C6 10uF

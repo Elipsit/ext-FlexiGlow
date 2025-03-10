@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=P0 Pin=TP1-2
+Removed Pin From Net: NetName=GND Pin=TP1-3
+Change Component Footprint: Designator=TP1 Old Footprint=NEOTESTPOINT New Footprint=TestPoint-SM
+Change Component Comment : Designator=TP1 Old Comment=TP/Neotestpoint New Comment=5V_USB
+Change Component Kind : Designator=TP1 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=TP2(TestPoint-SM)
+Added Component: Designator=TP3(TestPoint-SM)
+Added Component: Designator=TP4(TestPoint-SM)
+Added Component: Designator=TP5(TestPoint-SM)
+Added Component: Designator=TP6(TestPoint-SM)
+Added Pin To Net: NetName=P0 Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=5V Pin=TP4-1
+Added Pin To Net: NetName=NetLED30_1 Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP2 DIN
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP3 GND
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP4 5V_USB
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP5 DOUT
+Added Member To Class: ClassName=FlexiGlow_Rev_A Member=Component TP6 GND
