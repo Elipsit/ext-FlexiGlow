@@ -1,9 +1,0 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Project [FlexiGlow_Rev_A.PrjPcb]
-
-
-Files Generated   : 0
-Documents Printed : 0
-
-Finished Output Generation At 3:49:23 PM On 1/20/2025
