@@ -3,7 +3,7 @@
 
 # FlexiGlow LED Guide
 
-![FlexiGlow Logo](https://github.com/Elipsit/ext-FlexiGlow/blob/main/pics/10-IMG_2035%20Copy.JPG)
+![FlexiGlow Logo](docs/images/10-Final_Assembly.JPG)
 
 ## 📌 Overview
 FlexiGlow is a flexible PCB LED module designed for costumes and sci-fi-themed projects. This guide covers the design, assembly, and usage of the FlexiGlow LEDs, including schematics, PCB files, and build instructions.
@@ -67,11 +67,6 @@ pixels = neopixel.NeoPixel(board.D6, 25, brightness=0.5, auto_write=True)
 pixels.fill((255, 0, 0))  # Set all LEDs to red
 ```
 
-## 🤝 Contributing
-Contributions are welcome! If you have improvements or want to add features, fork the repo and submit a PR.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
